@@ -1,0 +1,5 @@
+__pycache__
+venv
+.idea
+.virtual_documents
+.ipynb_checkpoints
